@@ -1,0 +1,21 @@
+{
+	"asi"           : true,
+	"browser"       : true,
+	"curly"         : true,
+	"eqeqeq"        : true,
+	"esversion"     : 6,
+	"freeze"        : true,
+	"futurehostile" : true,
+	"latedef"       : true,
+	"maxcomplexity" : 7,
+	"noarg"         : true,
+	"node"          : true,
+	"nonbsp"        : true,
+	"nonew"         : true,
+	"singleGroups"  : true,
+	"smarttabs"     : false,
+	"trailing"      : true,
+	"undef"         : true,
+	"varstmt"       : true,
+	"white"         : true
+}

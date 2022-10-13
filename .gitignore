@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Gatsby directories, these regenerate upon running gatsby scripts.
+.cache/
+public/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific directories
+.idea/
